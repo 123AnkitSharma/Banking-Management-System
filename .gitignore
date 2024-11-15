@@ -1,0 +1,6 @@
+# Compiled binaries
+server
+client
+
+# Runtime database files
+records/*.bank
